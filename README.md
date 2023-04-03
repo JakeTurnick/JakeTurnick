@@ -5,9 +5,9 @@
  - 🎮 Gamer & Nerd at heart
  - 🌱 Not afraid of the outdoors
  - Interested in:
- - - ⏮️/⏭️ Both sides of the web (Full Stack)
- - - 💻 Game developement
- - - 🎥 Media production
+   - ⏮️/⏭️ Both sides of the web (Full Stack)
+   - 💻 Game developement
+   - 🎥 Media production
  - 
 <!--
 **JakeTurnick/JakeTurnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
