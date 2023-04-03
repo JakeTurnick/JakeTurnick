@@ -1,5 +1,7 @@
-### Hi y'all 👋
-### I'm Jake
+### Hi y'all 👋 I'm Jake
+
+Self taught and Code Bootcamp graduate,
+here's a little about me!
 
  - 🚹 Pronouns: He/They
  - 🎮 Gamer & Nerd at heart
