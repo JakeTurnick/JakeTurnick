@@ -10,6 +10,10 @@ here's a little about me!
    - ⏮️/⏭️ Both sides of the web (Full Stack)
    - 💻 Game developement
    - 🎥 Media production
+ - 🤞 My ideal job would be...
+   - 💪 a place I can flex my creative muscle
+   - 🧰 a reason to use (and grow!) my varied skillset
+   - 🎤 a chance to be a leader
 <!--
 **JakeTurnick/JakeTurnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
