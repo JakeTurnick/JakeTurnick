@@ -1,15 +1,17 @@
 ### Hi y'all 👋 I'm Jake
 
-Self taught and Code Bootcamp graduate,
-here's a little about me!
+Self taught and Code Bootcamp graduate
 
- - 🚹 Pronouns: He/They
- - 🎮 Gamer & Nerd at heart
- - 🌱 Not afraid of the outdoors
+ - A little bit about me:
+   - 🚹 Pronouns: He/They
+   - 🎮 Gamer & Nerd at heart
+   - 🌱 Not afraid of the outdoors
+   
  - 🧐 Interested in:
    - ⏮️/⏭️ Both sides of the web (Full Stack)
    - 💻 Game developement
    - 🎥 Media production
+
  - 🤞 My ideal job would be...
    - 💪 a place I can flex my creative muscle
    - 🧰 a reason to use (and grow!) my varied skillset
