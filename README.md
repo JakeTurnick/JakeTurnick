@@ -1,11 +1,6 @@
 ### Hi y'all 👋 I'm Jake
 
 Self taught and Code Bootcamp graduate
-
- - A little bit about me:
-   - 🚹 Pronouns: He/They
-   - 🎮 Gamer & Nerd at heart
-   - 🌱 Not afraid of the outdoors
    
  - 🧐 Interested in:
    - ⏮️/⏭️ Both sides of the web (Full Stack)
@@ -16,6 +11,11 @@ Self taught and Code Bootcamp graduate
    - 💪 a place I can flex my creative muscle
    - 🧰 a reason to use (and grow!) my varied skillset
    - 🎤 a chance to be a leader
+  
+-  - A little bit about me:
+   - 🚹 Pronouns: He/They
+   - 🎮 Gamer & Nerd at heart
+   - 🌱 Not afraid of the outdoors
 <!--
 **JakeTurnick/JakeTurnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
