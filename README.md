@@ -2,7 +2,7 @@
 
 Green days like the sun,
 We wish they would always shine;
-But the rain feeds crops
+The white rain feeds crops
    
  - 🧐 Interested in:
    - ⏮️/⏭️ Full Stack Web
@@ -13,7 +13,8 @@ But the rain feeds crops
    - 💪 a place I can flex my creative muscle
    - 🧰 a reason to use (and grow!) my varied skillset
    - 🎤 a place to be heard
-  
+
+I bring a certain individualism that bureaucracy might not like
 
 <!--
 **JakeTurnick/JakeTurnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
