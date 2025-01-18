@@ -1,7 +1,7 @@
-### Hi y'all 👋 I'm Jake
+## Hi y'all 👋 I'm Jake
 
 
-__Haiku, for you__
+####<ins>Haiku, for you</ins>
 
 *Green days like the sun,*
 
