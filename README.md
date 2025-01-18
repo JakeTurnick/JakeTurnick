@@ -3,11 +3,11 @@
 
 #### __Haiku, for you__
 
-*Green days like the sun,
+*Green days like the sun,*
 
-We wish they would always shine;
+*We wish they would always shine;*
 
-The white rain feeds crops*
+*The white rain feeds crops*
 
 
    
